@@ -1,0 +1,3 @@
+[submodule "fakeiottest"]
+	path = fakeiottest
+	url = git@github.com:gravitational/fakeiottest.git
